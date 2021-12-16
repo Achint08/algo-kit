@@ -1,0 +1,81 @@
+# Basic Data Structures in different languages
+
+## Central idea behind this project
+
+The idea is to focus on implementing basic important data structures and algorithms on very basic problems. These data structures are not exhaustive, but these are the algorithms that we occasionally come across.
+This would help in two ways:
+
+- Learn the exact insights and mechanisms about algorithms by heart.
+- Developing Template for the common data structures and algorithms to understand about depth of each data structures and algorithms.
+
+## List of data structures and algorithms
+
+- [x] Insertion Sort
+- [x] Merge Sort
+- [x] Bubble Sort
+- [ ] Selection Sort
+- [ ] Quick Sort
+- [ ] Counting Sort
+- [ ] Binary Search
+- [ ] Linked List
+- [ ] Doubly Linked List
+- [ ] Circular Linked List
+- [ ] Heap
+- [ ] Priority Queue
+- [ ] Sliding Window
+- [ ] Floyd's Algorithm (The Tortoise and the Hare)
+- [ ] Breadth First Search
+- [ ] Depth First Search
+- [ ] Hash Table
+- [ ] Recursion example
+- [ ] Hash Table
+- [ ] Prim's Algorithm
+- [ ] Krushkal's Algorithm
+- [ ] Set Algorithm example
+- [ ] Greedy Algorithm Knapsack
+- [ ] Dynamic Programming Top down DP
+- [ ] Minumum Spanning Tree
+- [ ] Euclidian Circuit
+- [ ] Dijkstra's Algorithm
+- [ ] Floyd Warshall Algorithm
+- [ ] Inorder Traversal
+- [ ] Graph Representations
+- [ ] Bellman Ford Algoritm
+- [ ] Topological Sort
+- [ ] Order Statistics
+- [ ] Detecting Cycle in graph
+- [ ] Directed Graph
+- [ ] Undirected Graph
+- [ ] Disjoint Set
+- [ ] Backtracking
+- [ ] Preorder Traversal
+- [ ] Postorder Traversal
+- [ ] Level Order Traversal
+- [ ] Stack
+- [ ] Queue
+- [ ] Trie
+- [ ] Bottom Up DP
+- [ ] String Matching
+- [ ] Strongly connected components
+- [ ] Chinese remainder theorm
+- [ ] Greatest common divisor
+- [ ] Divide and Conquer
+- [ ] Binary Search Tree
+- [ ] Segment Tree
+- [ ] Sieve of Eratosthenes
+
+## List of languages
+
+1. Python
+
+## Key insights
+
+1. Pass by reference for Array
+2. In // operation used on array length, right always get the major elements.
+3. Use truth table to avoid mistakes
+
+## Suggestions
+
+Are there any other algorithm that I might be missing? Please open a pull request and contribute! Let's learn together.
+
+## Thank You. :)
