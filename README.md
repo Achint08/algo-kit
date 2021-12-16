@@ -13,9 +13,9 @@ This would help in two ways:
 - [x] Insertion Sort
 - [x] Merge Sort
 - [x] Bubble Sort
-- [ ] Selection Sort
-- [ ] Quick Sort
-- [ ] Counting Sort
+- [x] Selection Sort
+- [x] Quick Sort
+- [x] Counting Sort
 - [ ] Binary Search
 - [ ] Linked List
 - [ ] Doubly Linked List
