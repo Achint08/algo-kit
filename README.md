@@ -6,7 +6,7 @@ The idea is to focus on implementing basic important data structures and algorit
 This would help in two ways:
 
 - Learn the exact insights and mechanisms about algorithms by heart.
-- Developing Template for the common data structures and algorithms to understand about depth of each data structures and algorithms.
+- Developing Template for the common data structures and algorithms for later reuse.
 
 ## List of data structures and algorithms
 
@@ -77,5 +77,24 @@ This would help in two ways:
 ## Suggestions
 
 Are there any other algorithm that I might be missing? Please open a pull request and contribute! Let's learn together.
+
+## Input size and time complexity reference
+
+| Input size      | Target time complexity           |
+| --------------- | -------------------------------- |
+| n ≤ 12          | O(n!)                            |
+| n ≤ 25          | O(2^n)                           |
+| n ≤ 100         | O(n^4)                           |
+| n ≤ 500         | O(n^3)                           |
+| n ≤ 10 000      | O(n^2)                           |
+| n ≤ 1 000 000   | O(n log n)                       |
+| n ≤ 100 000 000 | O(n)                             |
+| n > 100 000 000 | O(1) or O(log n) or O(n ^ (1/2)) |
+
+## References
+
+- https://www.programiz.com/
+- https://www.geeksforgeeks.org/
+- https://codeforces.com/blog/entry/21344
 
 ## Thank You. :)
