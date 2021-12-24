@@ -16,7 +16,7 @@ This would help in two ways:
 - [x] Selection Sort
 - [x] Quick Sort
 - [x] Counting Sort
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Linked List
 - [ ] Doubly Linked List
 - [ ] Circular Linked List
