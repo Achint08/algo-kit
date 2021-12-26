@@ -17,8 +17,8 @@ This would help in two ways:
 - [x] Quick Sort
 - [x] Counting Sort
 - [x] Binary Search
-- [ ] Linked List
-- [ ] Doubly Linked List
+- [x] Linked List
+- [x] Doubly Linked List
 - [ ] Circular Linked List
 - [ ] Heap
 - [ ] Priority Queue
