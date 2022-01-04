@@ -19,7 +19,7 @@ This would help in two ways:
 - [x] Binary Search
 - [x] Linked List
 - [x] Doubly Linked List
-- [ ] Circular Linked List
+- [x] Circular Linked List
 - [ ] Heap
 - [ ] Priority Queue
 - [ ] Sliding Window
@@ -31,6 +31,7 @@ This would help in two ways:
 - [ ] Hash Table
 - [ ] Prim's Algorithm
 - [ ] Krushkal's Algorithm
+- [ ] Eular Path and Circuit
 - [ ] Set Algorithm example
 - [ ] Greedy Algorithm Knapsack
 - [ ] Dynamic Programming Top down DP
