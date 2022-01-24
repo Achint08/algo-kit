@@ -96,5 +96,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.programiz.com/
 - https://www.geeksforgeeks.org/
 - https://codeforces.com/blog/entry/21344
+- https://www.pluralsight.com/guides/algorithm-templates:-introduction
 
 ## Thank You. :)
