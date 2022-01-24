@@ -20,15 +20,16 @@ This would help in two ways:
 - [x] Linked List
 - [x] Doubly Linked List
 - [x] Circular Linked List
-- [ ] Heap
-- [ ] Priority Queue
-- [ ] Sliding Window
-- [ ] Floyd's Algorithm (The Tortoise and the Hare)
+- [x] Heap/Priority Queue
+- [x] (Two Pointers) Floyd's Algorithm (The Tortoise and the Hare)
+- [x] (Two Pointers) Old and new state
+- [ ] (Two Pointers) Left and right boundary
+- [ ] (Two Pointers) Pointer-1 and pointer-2 from two sequences
+- [ ] (Two Pointers) Start and end of sliding window
 - [ ] Breadth First Search
 - [ ] Depth First Search
 - [ ] Hash Table
 - [ ] Recursion example
-- [ ] Hash Table
 - [ ] Prim's Algorithm
 - [ ] Krushkal's Algorithm
 - [ ] Eular Path and Circuit
