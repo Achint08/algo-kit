@@ -11,21 +11,19 @@ This would help in two ways:
 ## List of data structures and algorithms
 
 - [x] Insertion Sort
-- [x] Merge Sort
+- [x] Merge Sort/(Two Pointers) Pointer-1 and pointer-2 from two sequences
 - [x] Bubble Sort
 - [x] Selection Sort
 - [x] Quick Sort
 - [x] Counting Sort
-- [x] Binary Search
+- [x] Binary Search/ (Two Pointers) Left and right boundary
 - [x] Linked List
 - [x] Doubly Linked List
 - [x] Circular Linked List
 - [x] Heap/Priority Queue
 - [x] (Two Pointers) Floyd's Algorithm (The Tortoise and the Hare)
 - [x] (Two Pointers) Old and new state
-- [ ] (Two Pointers) Left and right boundary
-- [ ] (Two Pointers) Pointer-1 and pointer-2 from two sequences
-- [ ] (Two Pointers) Start and end of sliding window
+- [x] (Two Pointers) Start and end of sliding window
 - [ ] Breadth First Search
 - [ ] Depth First Search
 - [ ] Hash Table
