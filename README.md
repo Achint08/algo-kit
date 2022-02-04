@@ -27,6 +27,7 @@ This would help in two ways:
 - [ ] Breadth First Search
 - [ ] Depth First Search
 - [ ] Hash Table
+- [ ] Binary Search(using bisect)
 - [ ] Recursion example
 - [ ] Prim's Algorithm
 - [ ] Krushkal's Algorithm
@@ -63,6 +64,7 @@ This would help in two ways:
 - [ ] Binary Search Tree
 - [ ] Segment Tree
 - [ ] Sieve of Eratosthenes
+- [ ] Monotonically decreasing stack
 
 ## List of languages
 
@@ -97,5 +99,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.geeksforgeeks.org/
 - https://codeforces.com/blog/entry/21344
 - https://www.pluralsight.com/guides/algorithm-templates:-introduction
+- https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
 
 ## Thank You. :)
