@@ -24,9 +24,12 @@ This would help in two ways:
 - [x] (Two Pointers) Floyd's Algorithm (The Tortoise and the Hare)
 - [x] (Two Pointers) Old and new state
 - [x] (Two Pointers) Start and end of sliding window
-- [ ] Breadth First Search
-- [ ] Depth First Search
-- [ ] Hash Table
+- [x] Adjacency List
+- [x] Adjacency Matrix
+- [x] Edge List
+- [x] Breadth First Search
+- [x] Depth First Search
+- [x] Hash Table
 - [ ] Binary Search(using bisect)
 - [ ] Recursion example
 - [ ] Prim's Algorithm
@@ -40,7 +43,6 @@ This would help in two ways:
 - [ ] Dijkstra's Algorithm
 - [ ] Floyd Warshall Algorithm
 - [ ] Inorder Traversal
-- [ ] Graph Representations
 - [ ] Bellman Ford Algoritm
 - [ ] Topological Sort
 - [ ] Order Statistics
@@ -65,6 +67,7 @@ This would help in two ways:
 - [ ] Segment Tree
 - [ ] Sieve of Eratosthenes
 - [ ] Monotonically decreasing stack
+- [ ] Rolling hash
 
 ## List of languages
 
@@ -100,5 +103,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://codeforces.com/blog/entry/21344
 - https://www.pluralsight.com/guides/algorithm-templates:-introduction
 - https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
+- https://leetcode.com/problems/binary-tree-right-side-view/solution/
 
 ## Thank You. :)
