@@ -10,64 +10,62 @@ This would help in two ways:
 
 ## List of data structures and algorithms
 
+- [x] (Two Pointers) Floyd's Algorithm (The Tortoise and the Hare)
+- [x] (Two Pointers) Old and new state
+- [x] (Two Pointers) Start and end of sliding window
+- [x] Linked List
+- [x] Doubly Linked List
+- [x] Circular Linked List
+- [x] Hash Table
+- [x] Stack
+- [x] Monotonic stack
+- [x] Queue
+- [x] Recursion example
+- [x] Divide and Conquer
 - [x] Insertion Sort
 - [x] Merge Sort/(Two Pointers) Pointer-1 and pointer-2 from two sequences
 - [x] Bubble Sort
 - [x] Selection Sort
 - [x] Quick Sort
 - [x] Counting Sort
+- [ ] Order Statistics
 - [x] Binary Search/ (Two Pointers) Left and right boundary
-- [x] Linked List
-- [x] Doubly Linked List
-- [x] Circular Linked List
+- [x] Binary Search(using bisect)
 - [x] Heap/Priority Queue
-- [x] (Two Pointers) Floyd's Algorithm (The Tortoise and the Hare)
-- [x] (Two Pointers) Old and new state
-- [x] (Two Pointers) Start and end of sliding window
+- [ ] Trie
+- [ ] Rolling hash
+- [ ] Disjoint Set
+- [ ] Binary Tree
+- [ ] Binary Search Tree
+- [ ] Segment Tree
 - [x] Adjacency List
 - [x] Adjacency Matrix
 - [x] Edge List
 - [x] Breadth First Search
 - [x] Depth First Search
-- [x] Hash Table
-- [ ] Binary Search(using bisect)
-- [ ] Recursion example
-- [ ] Prim's Algorithm
-- [ ] Krushkal's Algorithm
-- [ ] Eular Path and Circuit
-- [ ] Set Algorithm example
-- [ ] Greedy Algorithm Knapsack
-- [ ] Dynamic Programming Top down DP
-- [ ] Minumum Spanning Tree
-- [ ] Euclidian Circuit
-- [ ] Dijkstra's Algorithm
-- [ ] Floyd Warshall Algorithm
 - [ ] Inorder Traversal
-- [ ] Bellman Ford Algoritm
-- [ ] Topological Sort
-- [ ] Order Statistics
-- [ ] Detecting Cycle in graph
-- [ ] Directed Graph
-- [ ] Undirected Graph
-- [ ] Disjoint Set
-- [ ] Backtracking
 - [ ] Preorder Traversal
 - [ ] Postorder Traversal
 - [ ] Level Order Traversal
-- [ ] Stack
-- [ ] Queue
-- [ ] Trie
-- [ ] Bottom Up DP
-- [ ] String Matching
+- [ ] Dijkstra's Algorithm
+- [ ] Bellman Ford Algoritm
+- [ ] Floyd Warshall Algorithm
+- [ ] Prim's Algorithm
+- [ ] Krushkal's Algorithm
+- [ ] Minumum Spanning Tree
+- [ ] Eular Path
+- [ ] Euclidian Circuit
+- [ ] Topological Sort
+- [ ] Detecting Cycle in graph
 - [ ] Strongly connected components
+- [ ] Backtracking
+- [ ] Greedy Algorithm Knapsack
+- [ ] Dynamic Programming Top down DP
+- [ ] Bottom Up DP
 - [ ] Chinese remainder theorm
-- [ ] Greatest common divisor
-- [ ] Divide and Conquer
-- [ ] Binary Search Tree
-- [ ] Segment Tree
+- [ ] Greatest common divisor (Euclid's Algorithm)
+- [ ] Exponentiation algorithm
 - [ ] Sieve of Eratosthenes
-- [ ] Monotonically decreasing stack
-- [ ] Rolling hash
 
 ## List of languages
 
@@ -104,5 +102,8 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.pluralsight.com/guides/algorithm-templates:-introduction
 - https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
 - https://leetcode.com/problems/binary-tree-right-side-view/solution/
+- https://realpython.com/python-recursion/
+- https://www.youtube.com/watch?v=pPiSMPWKZ3E
+- https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8
 
 ## Thank You. :)
