@@ -28,12 +28,12 @@ This would help in two ways:
 - [x] Selection Sort
 - [x] Quick Sort
 - [x] Counting Sort
-- [ ] Order Statistics
+- [x] (Order Statistics) Quick Select
 - [x] Binary Search/ (Two Pointers) Left and right boundary
 - [x] Binary Search(using bisect)
 - [x] Heap/Priority Queue
-- [ ] Trie
-- [ ] Rolling hash
+- [x] Trie
+- [x] Rolling hash
 - [ ] Disjoint Set
 - [ ] Binary Tree
 - [ ] Binary Search Tree
@@ -105,5 +105,7 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://realpython.com/python-recursion/
 - https://www.youtube.com/watch?v=pPiSMPWKZ3E
 - https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8
+- https://www.youtube.com/watch?v=rf6uf3jNjbo
+- https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1
 
 ## Thank You. :)
