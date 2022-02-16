@@ -33,11 +33,10 @@ This would help in two ways:
 - [x] Binary Search(using bisect)
 - [x] Heap/Priority Queue
 - [x] Trie
-- [x] Rolling hash [TO-DO - Simplified version]
+- [x] Rolling hash [TODO - Simplified version]
 - [x] Disjoint Set
-- [ ] Binary Tree
+- [x] Binary Tree
 - [ ] Binary Search Tree
-- [ ] Segment Tree
 - [x] Adjacency List
 - [x] Adjacency Matrix
 - [x] Edge List
@@ -66,8 +65,12 @@ This would help in two ways:
 - [ ] Greatest common divisor (Euclid's Algorithm)
 - [ ] Exponentiation algorithm
 - [ ] Sieve of Eratosthenes
+
+Very rare DS & Algos -
+
 - [ ] K-way merge
 - [ ] (XOR) all 3 times except 1
+- [ ] Segment Tree
 
 ## List of languages
 
