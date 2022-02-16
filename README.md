@@ -33,8 +33,8 @@ This would help in two ways:
 - [x] Binary Search(using bisect)
 - [x] Heap/Priority Queue
 - [x] Trie
-- [x] Rolling hash
-- [ ] Disjoint Set
+- [x] Rolling hash [TO-DO - Simplified version]
+- [x] Disjoint Set
 - [ ] Binary Tree
 - [ ] Binary Search Tree
 - [ ] Segment Tree
@@ -66,6 +66,8 @@ This would help in two ways:
 - [ ] Greatest common divisor (Euclid's Algorithm)
 - [ ] Exponentiation algorithm
 - [ ] Sieve of Eratosthenes
+- [ ] K-way merge
+- [ ] (XOR) all 3 times except 1
 
 ## List of languages
 
@@ -107,5 +109,7 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8
 - https://www.youtube.com/watch?v=rf6uf3jNjbo
 - https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1
+- https://codeforces.com/blog/entry/60445
+- https://www.youtube.com/watch?v=wU6udHRIkcc
 
 ## Thank You. :)
