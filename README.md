@@ -33,7 +33,7 @@ This would help in two ways:
 - [x] Binary Search(using bisect)
 - [x] Heap/Priority Queue
 - [x] Trie
-- [x] Rolling hash [TODO - Simplified version]
+- [x] Rolling hash
 - [x] Disjoint Set
 - [x] Binary Tree
 - [ ] Binary Search Tree
@@ -71,6 +71,7 @@ Very rare DS & Algos -
 - [ ] K-way merge
 - [ ] (XOR) all 3 times except 1
 - [ ] Segment Tree
+- [ ] KMP Algo
 
 ## List of languages
 
@@ -78,9 +79,11 @@ Very rare DS & Algos -
 
 ## Key insights
 
-1. Pass by reference for Array
+1. Pass by reference for Array.
 2. In // operation used on array length, right always get the major elements.
-3. Use truth table to avoid mistakes
+3. Use truth table to avoid mistakes.
+
+\*\* Other key insights I have added in the code, wherever required because that was making more sense. So not going to update it here.
 
 ## Suggestions
 
