@@ -8,7 +8,11 @@ This would help in two ways:
 - Learn the exact insights and mechanisms about algorithms by heart.
 - Developing Template for the common data structures and algorithms for later reuse.
 
-Note: When using python, use [pypy](https://www.pypy.org/) in contests, if available, when solving questions because it's a faster alternative to cpython. Just read about it.
+Note:
+
+1. When using python, use [pypy](https://www.pypy.org/) in contests, if available, when solving questions because it's a faster alternative to cpython. Just read about it.
+
+2. All FAANG companies mostly focus on these algorithms only. This are high leverage algorithms from the interview perspective.
 
 ## List of data structures and algorithms
 
@@ -48,7 +52,7 @@ Note: When using python, use [pypy](https://www.pypy.org/) in contests, if avail
 - [x] Dijkstra's Algorithm (Priority queue)
 - [x] Bellman Ford Algoritm
 - [x] Floyd Warshall Algorithm
-- [ ] Prim's Algorithm
+- [x] Prim's Algorithm
 - [ ] Krushkal's Algorithm
 - [ ] Eular Path
 - [ ] Euclidian Circuit
@@ -59,12 +63,14 @@ Note: When using python, use [pypy](https://www.pypy.org/) in contests, if avail
 - [ ] Greedy Algorithm Knapsack
 - [ ] Dynamic Programming Top down DP
 - [ ] Bottom Up DP
+- [ ] DP with bit masking
 - [ ] Chinese remainder theorm
 - [ ] Greatest common divisor (Euclid's Algorithm)
 - [ ] Exponentiation algorithm
 - [ ] Sieve of Eratosthenes
+- [ ] All 3 except 1 algorithm
 
-For more advanced topics, refer this book: https://cses.fi/book/book.pdf
+For more advanced topics and deep dive into competitive programming, refer this book: https://cses.fi/book/book.pdf as suggested by top coders.
 
 ## Input size and time complexity reference
 
@@ -99,5 +105,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://codeforces.com/blog/entry/60445
 - https://www.youtube.com/watch?v=wU6udHRIkcc
 - https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+- https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 
 ## Thank You. :)
