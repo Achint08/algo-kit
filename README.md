@@ -1,4 +1,4 @@
-# Basic Data Structures in different languages
+# Basic Data Structures
 
 ## Central idea behind this project
 
@@ -7,6 +7,8 @@ This would help in two ways:
 
 - Learn the exact insights and mechanisms about algorithms by heart.
 - Developing Template for the common data structures and algorithms for later reuse.
+
+Note: When using python, use [pypy](https://www.pypy.org/) in contests, if available, when solving questions because it's a faster alternative to cpython. Just read about it.
 
 ## List of data structures and algorithms
 
@@ -36,22 +38,18 @@ This would help in two ways:
 - [x] Rolling hash
 - [x] Disjoint Set
 - [x] Binary Tree
-- [ ] Binary Search Tree
+- [x] Binary Search Tree
 - [x] Adjacency List
 - [x] Adjacency Matrix
 - [x] Edge List
 - [x] Breadth First Search
 - [x] Depth First Search
-- [ ] Inorder Traversal
-- [ ] Preorder Traversal
-- [ ] Postorder Traversal
-- [ ] Level Order Traversal
-- [ ] Dijkstra's Algorithm
-- [ ] Bellman Ford Algoritm
-- [ ] Floyd Warshall Algorithm
+- [x] Tree Traversal (Inorder, Preorder, Postorder, Level Order)
+- [x] Dijkstra's Algorithm (Priority queue)
+- [x] Bellman Ford Algoritm
+- [x] Floyd Warshall Algorithm
 - [ ] Prim's Algorithm
 - [ ] Krushkal's Algorithm
-- [ ] Minumum Spanning Tree
 - [ ] Eular Path
 - [ ] Euclidian Circuit
 - [ ] Topological Sort
@@ -66,28 +64,7 @@ This would help in two ways:
 - [ ] Exponentiation algorithm
 - [ ] Sieve of Eratosthenes
 
-Very rare DS & Algos -
-
-- [ ] K-way merge
-- [ ] (XOR) all 3 times except 1
-- [ ] Segment Tree
-- [ ] KMP Algo
-
-## List of languages
-
-1. Python
-
-## Key insights
-
-1. Pass by reference for Array.
-2. In // operation used on array length, right always get the major elements.
-3. Use truth table to avoid mistakes.
-
-\*\* Other key insights I have added in the code, wherever required because that was making more sense. So not going to update it here.
-
-## Suggestions
-
-Are there any other algorithm that I might be missing? Please open a pull request and contribute! Let's learn together.
+For more advanced topics, refer this book: https://cses.fi/book/book.pdf
 
 ## Input size and time complexity reference
 
@@ -101,6 +78,10 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 | n ≤ 1 000 000   | O(n log n)                       |
 | n ≤ 100 000 000 | O(n)                             |
 | n > 100 000 000 | O(1) or O(log n) or O(n ^ (1/2)) |
+
+## Suggestions
+
+Are there any other algorithm that I might be missing? Please open a pull request and contribute! Let's learn together.
 
 ## References
 
@@ -117,5 +98,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1
 - https://codeforces.com/blog/entry/60445
 - https://www.youtube.com/watch?v=wU6udHRIkcc
+- https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
 
 ## Thank You. :)

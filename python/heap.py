@@ -1,5 +1,7 @@
 import heapq
 
+# This is a min heap.
+# To use it as max heap, just add -ve sign to every element and use accordingly
 a = [2, 4, 5, 1, 8, 9]
 heapq.heapify(a)
 print(a)
