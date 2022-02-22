@@ -70,6 +70,13 @@ Note:
 
 For more advanced topics and deep dive into competitive programming, refer this book: https://cses.fi/book/book.pdf as suggested by top coders.
 
+I came across some new things about python while learning. You might also come across these at some time. Read these blogs for help understanding them, beforehand, so that you don't get stuck like me:
+
+1. https://book.pythontips.com/en/latest/for_-_else.html
+2. https://stackoverflow.com/questions/1907565/c-and-python-different-behaviour-of-the-modulo-operation
+3. https://www.programiz.com/python-programming/global-local-nonlocal-variables#:~:text=Nonlocal%20variables%20are%20used%20in,keywords%20to%20create%20nonlocal%20variables.
+4. https://stackoverflow.com/a/9674327/6725646
+
 ## Input size and time complexity reference
 
 | Input size      | Target time complexity           |
@@ -108,5 +115,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.youtube.com/watch?v=AamHZhAmR7o
 - https://www.geeksforgeeks.org/strongly-connected-components/
 - https://favtutor.com/blogs/topological-sort-python
+- https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28
 
 ## Thank You. :)

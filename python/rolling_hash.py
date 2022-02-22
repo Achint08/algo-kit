@@ -5,9 +5,9 @@
 # Checkout - https://codeforces.com/blog/entry/60445
 # Hash matching never guarantees string exists as substring. We need to
 # perform the action to ensure that hypothesis actually exists.
-
-from re import S
-from tabnanny import check
+# Note -
+# 1. It's a good time to revise some basic properties about modulus.
+# https://math.stackexchange.com/questions/147140/what-are-the-properties-of-the-modulus
 
 
 def count_rolling_hash(s1, s2):
