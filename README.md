@@ -56,18 +56,17 @@ Note:
 - [x] Krushkal's Algorithm
 - [x] Eular Path/Circuit
 - [x] Kosaraju’s algorithm(Strongly connected components)
-- [ ] Detecting Cycle in graph(Back/Forward/tree edge)
-- [ ] Topological Sort
-- [ ] Backtracking
+- [x] Detecting Cycle in graph(Back/Forward/tree edge)
+- [x] Topological Sort
+- [x] Backtracking
 - [ ] Greedy Algorithm Knapsack
 - [ ] Dynamic Programming Top down DP
 - [ ] Bottom Up DP
 - [ ] DP with bit masking
-- [ ] Chinese remainder theorm
-- [ ] Greatest common divisor (Euclid's Algorithm)
-- [ ] Exponentiation algorithm
+- [ ] Euclid's Algorithm (Greatest common divisor)
+- [ ] Exponentiation algorithm (Exponentiation by squaring D&C)
 - [ ] Sieve of Eratosthenes
-- [ ] All 3 except 1 algorithm
+- [ ] All three except one
 
 For more advanced topics and deep dive into competitive programming, refer this book: https://cses.fi/book/book.pdf as suggested by top coders.
 
@@ -108,5 +107,6 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.youtube.com/watch?v=5M-m62qTR-s
 - https://www.youtube.com/watch?v=AamHZhAmR7o
 - https://www.geeksforgeeks.org/strongly-connected-components/
+- https://favtutor.com/blogs/topological-sort-python
 
 ## Thank You. :)

@@ -11,7 +11,7 @@ def dfs_util(node):
             dfs_util(neighbour)
 
     color[node] = 'black'
-    finish_time.append((ft, node))
+    finish_time.append(node)
     ft += 1
 
 
@@ -50,12 +50,11 @@ if __name__ == '__main__':
     adj_list = get_transpose_graph(adj_list)
 
     total_scc = 0
-    finish_time.sort(reverse=True)
 
     for vertice in vertices:
         color[vertice] = 'white'
 
-    for _, vertice in finish_time:
+    for vertice in finish_time[::-1]:
         if color[vertice] == 'white':
             dfs_util(vertice)
             total_scc += 1
