@@ -1,30 +1,34 @@
-def find(x):
-    while(parent[x] != x):
-        x = parent[x]
-
-    return x
+import heapq
 
 
-def union(x, y):
-    x_parent = find(x)
-    y_parent = find(y)
+def prim(adj_list, vertices, source):
 
-    if count[y_parent] > count[x_parent]:
-        parent[x_parent] = y_parent
-        count[y_parent] += count[x_parent]
-    else:
-        parent[y_parent] = x_parent
-        count[x_parent] += count[y_parent]
-
-
-def prim(edges):
-
+    visited = set()
     min_cost = 0
-    for weight, source, destination in edges:
+    priority_queue = []
 
-        if find(source) != find(destination):
-            min_cost += weight
-            union(source, destination)
+    for destination in adj_list[source]:
+        heapq.heappush(
+            priority_queue,
+            (adj_list[source][destination], destination)
+        )
+
+    visited.add(source)
+
+    while(len(visited) < len(vertices)):
+
+        weight, source = heapq.heappop(priority_queue)
+
+        if source in visited:
+            continue
+
+        min_cost += weight
+        visited.add(source)
+
+        for destination in adj_list[source]:
+
+            heapq.heappush(
+                priority_queue, (adj_list[source][destination], destination))
 
     return min_cost
 
@@ -40,21 +44,6 @@ if __name__ == '__main__':
         'Z': {'W': 5, 'Y': 1},
     }
 
-    edge_list = []
-
-    for source in adj_list:
-        for destination in adj_list[source]:
-            edge_list.append(
-                (adj_list[source][destination], source, destination))
-
-    edge_list.sort()
     vertices = adj_list.keys()
 
-    count = {}
-    parent = {}
-
-    for vertice in vertices:
-        count[vertice] = 1
-        parent[vertice] = vertice
-
-    print(prim(edge_list))
+    print(prim(adj_list, vertices, source='U'))

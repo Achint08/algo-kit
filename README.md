@@ -53,12 +53,11 @@ Note:
 - [x] Bellman Ford Algoritm
 - [x] Floyd Warshall Algorithm
 - [x] Prim's Algorithm
-- [ ] Krushkal's Algorithm
-- [ ] Eular Path
-- [ ] Euclidian Circuit
+- [x] Krushkal's Algorithm
+- [x] Eular Path/Circuit
+- [x] Kosaraju’s algorithm(Strongly connected components)
+- [ ] Detecting Cycle in graph(Back/Forward/tree edge)
 - [ ] Topological Sort
-- [ ] Detecting Cycle in graph
-- [ ] Strongly connected components
 - [ ] Backtracking
 - [ ] Greedy Algorithm Knapsack
 - [ ] Dynamic Programming Top down DP
@@ -106,5 +105,8 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.youtube.com/watch?v=wU6udHRIkcc
 - https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
 - https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
+- https://www.youtube.com/watch?v=5M-m62qTR-s
+- https://www.youtube.com/watch?v=AamHZhAmR7o
+- https://www.geeksforgeeks.org/strongly-connected-components/
 
 ## Thank You. :)
