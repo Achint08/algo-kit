@@ -63,10 +63,9 @@ Note:
 - [x] Dynamic Programming Top down DP
 - [x] Bottom Up DP
 - [x] DP with bit masking
-- [ ] All three except one
-- [ ] Euclid's Algorithm (Greatest common divisor)
-- [ ] Exponentiation algorithm (Exponentiation by squaring D&C)
-- [ ] Sieve of Eratosthenes
+- [x] Euclid's Algorithm (Greatest common divisor)
+- [x] Exponentiation algorithm (Exponentiation by squaring D&C)
+- [x] Sieve of Eratosthenes
 
 For more advanced topics and deep dive into competitive programming, refer this book: https://cses.fi/book/book.pdf as suggested by top coders.
 
@@ -120,5 +119,9 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo
 - https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 - https://medium.com/analytics-vidhya/bits-bitmasking-62277789f6f5
+- https://www.youtube.com/watch?v=B5HKW99AvV0
+- https://codecrucks.com/exponential-problem-solving-using-divide-and-conquer/
+- https://python.plainenglish.io/prime-numbers-using-sieve-of-eratosthenes-in-python-b917ae6188c7
+- https://www.geeksforgeeks.org/sieve-of-eratosthenes/
 
 ## Thank You. :)
