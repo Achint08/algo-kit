@@ -59,14 +59,14 @@ Note:
 - [x] Detecting Cycle in graph(Back/Forward/tree edge)
 - [x] Topological Sort
 - [x] Backtracking
-- [ ] Greedy Algorithm Knapsack
-- [ ] Dynamic Programming Top down DP
-- [ ] Bottom Up DP
-- [ ] DP with bit masking
+- [x] Greedy Algorithm Knapsack
+- [x] Dynamic Programming Top down DP
+- [x] Bottom Up DP
+- [x] DP with bit masking
+- [ ] All three except one
 - [ ] Euclid's Algorithm (Greatest common divisor)
 - [ ] Exponentiation algorithm (Exponentiation by squaring D&C)
 - [ ] Sieve of Eratosthenes
-- [ ] All three except one
 
 For more advanced topics and deep dive into competitive programming, refer this book: https://cses.fi/book/book.pdf as suggested by top coders.
 
@@ -116,5 +116,9 @@ Are there any other algorithm that I might be missing? Please open a pull reques
 - https://www.geeksforgeeks.org/strongly-connected-components/
 - https://favtutor.com/blogs/topological-sort-python
 - https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28
+- https://www.geeksforgeeks.org/greedy-algorithms/
+- https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo
+- https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+- https://medium.com/analytics-vidhya/bits-bitmasking-62277789f6f5
 
 ## Thank You. :)
