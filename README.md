@@ -1,4 +1,4 @@
-# Basic Data Structures nad Algorithms
+# Basic Data Structures And Algorithms
 
 ## Central idea behind this project
 
