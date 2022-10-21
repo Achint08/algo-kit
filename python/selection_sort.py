@@ -7,7 +7,7 @@ def selection_sort(arr):
             if arr[min_idx] > arr[j]:
                 min_idx = j
 
-    arr[min_idx], arr[i] = arr[i], arr[min_idx]
+        arr[min_idx], arr[i] = arr[i], arr[min_idx]
 
 
 if __name__ == '__main__':
