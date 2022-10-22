@@ -21,6 +21,6 @@ print(a)
 print(heapq.nlargest(2, a))
 # nsmallest
 print(heapq.nsmallest(5, a))
-# merge two unsorted arrays
+# merge two unsorted arrays (returns heap)
 m = list(heapq.merge(a, [5, 3]))
 print(m)
