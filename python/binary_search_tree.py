@@ -47,9 +47,9 @@ def delete(root, key):
         return root
 
     if root.val < key:
-        root.left = delete(root.right, key)
+        root.right = delete(root.right, key)
     elif root.val > key:
-        root.right = delete(root.left, key)
+        root.left = delete(root.left, key)
     else:
         if not root.left:
             temp = root.right
@@ -63,9 +63,9 @@ def delete(root, key):
 
         successor = find_successor(root)
 
-        root.key = successor.key
+        root.val = successor.val
 
-        delete(root.right, successor.key)
+        delete(root.right, successor.val)
 
         return root
 
