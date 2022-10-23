@@ -56,18 +56,17 @@ def delete(root, key):
             root.right = None
             return temp
 
-        if not root.right:
+        elif not root.right:
             temp = root.left
             root.left = None
             return temp
-
-        successor = find_successor(root)
-
-        root.val = successor.val
-
-        delete(root.right, successor.val)
-
-        return root
+        elif root.left and root.right:
+            successor = find_successor(root)
+            root.val = successor.val
+            delete(root.right, successor.val)
+            return root
+        else:
+            return None
 
 
 if __name__ == '__main__':
