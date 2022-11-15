@@ -21,10 +21,6 @@ def isSafe(row, col):
         if board[i][j] == 1:
             return False
 
-    for i, j in zip(range(row, n, 1), range(col, -1, -1)):
-        if board[i][j] == 1:
-            return False
-
     return True
 
 
