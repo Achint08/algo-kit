@@ -14,10 +14,6 @@
 # 3. Forest = Set of trees.
 
 
-from time import time
-from tracemalloc import start
-
-
 def dfs(node):
     global color, back_edge, curr_time, start_time, finish_time, forward_edge, cross_edge, tree_edge
     color[node] = 'grey'
