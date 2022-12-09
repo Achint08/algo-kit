@@ -33,9 +33,9 @@ func (priorityQueue *PriorityQueue) Pop() interface{} {
 	temp := *priorityQueue
 	l := len(temp)
 	res := temp[l-1]
+	temp[l-1] = Element{}
 	*priorityQueue = temp[:l-1]
 	return res
-
 }
 
 func topKFrequent(nums []int, k int) (res []int) {
@@ -45,15 +45,15 @@ func topKFrequent(nums []int, k int) (res []int) {
 		counter[nums[idx]] += 1
 	}
 
-	priorityQueue := make(PriorityQueue, len(nums))
+	priorityQueue := make(PriorityQueue, 0)
 
 	idx := 0
 
 	for value, count := range counter {
-		priorityQueue[idx] = Element{
+		priorityQueue = append(priorityQueue, Element{
 			value:    value,
 			priority: count,
-		}
+		})
 		idx += 1
 	}
 
