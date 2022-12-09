@@ -1,3 +1,6 @@
+/* Implemented using doubly linked list
+*/
+
 package main
 
 import (
