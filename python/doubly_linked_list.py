@@ -53,7 +53,8 @@ class DoublyLinkedList:
 
         if temp and temp.data == key:
             self.head = temp.next
-            self.head.prev = None
+            if self.head:
+                self.head.prev = None
             temp = None
             return
 
