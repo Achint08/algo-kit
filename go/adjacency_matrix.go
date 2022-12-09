@@ -10,7 +10,7 @@ func addEdge(adjMatrix [][]bool, source int, destination int) {
 
 func main() {
 	adjMatrix := [][]bool{}
-	for idx := 0; idx < 4; idx ++ {
+	for idx := 0; idx < 4; idx++ {
 		adjMatrix = append(adjMatrix, make([]bool, 4))
 	}
 	addEdge(adjMatrix, 1, 2)
