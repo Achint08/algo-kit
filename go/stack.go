@@ -5,13 +5,6 @@ import (
 	"fmt"
 )
 
-type Stack interface {
-	push(int)
-	pop() int
-	top() int
-	isEmpty() bool
-}
-
 type Arr struct {
 	stack []int
 }
