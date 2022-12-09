@@ -58,5 +58,6 @@ func findMinSubstring(s1 string, s2 string) int {
 }
 
 func main() {
-	fmt.Print(findMinSubstring("ADOBECODEBANC", "ABC"))
+	fmt.Println(findMinSubstring("ADOBECODEBANC", "ABC"))
+
 }
