@@ -11,10 +11,10 @@
 
 def fibonacci(n):
     old, new = 0, 1
-    for _ in range(n + 1):
+    for _ in range(n - 1):
         old, new = new, old + new
 
-    return old
+    return new
 
 
 if __name__ == '__main__':
