@@ -1,6 +1,6 @@
 # Template
 
-# end moves in outer template while, start moves in inner template
+# end expands, while start pointer tries to contract
 # def some_start_condition(s, e):
 #     pass
 
